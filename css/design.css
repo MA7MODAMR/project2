@@ -1,0 +1,125 @@
+* {
+    font-family: arial;
+}
+
+header .container{
+    color: #AAA;
+    padding: 20px 0px;
+    border-bottom: 1px solid #999;
+    font-size: 25px;
+    margin: 15px auto;
+}
+
+
+header h3{
+    color: #AAA;
+    padding: 20px 0px;
+    
+}
+
+.box1{
+
+    background-color: #EEE;
+    padding: 15px 0px;
+    margin-bottom: 10px;
+}
+
+.box1 h2{
+    font-size: 1.5em;
+}
+
+.box1 p{
+    font-weight: bold;
+}
+
+.box1 input{
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    padding: 5px;
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+    max-height: 2em;
+}
+ 
+input:hover {
+    box-shadow: 0px 0px 12px -7px #888;
+}
+
+
+
+.btn:hover {
+    box-shadow: 2px 5px 3px 0px #888;
+}
+
+
+.box1 button {
+    background-color: #1167c4;
+}
+.box2 .part1
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px auto;
+}
+
+
+.box2 .btn-primary
+{
+    background-color: #1167c4;
+    color: white;
+    border: 1px solid #1167c4;
+    margin-left: 100px;
+}
+.btn-primary:hover {
+    background-color: #0a3f77;
+    border: 1px solid #0a3f77;
+}
+
+.box2 .btn-danger
+{
+    background-color: #910004;
+    color: white;
+    border: 1px solid #910004;
+
+}
+.btn-danger:hover {
+    background-color: #510d0e;
+    border: 1px solid #510d0e;
+}
+
+.btn:hover {
+    box-shadow: 2px 5px 3px 0px #888;
+}
+
+
+
+footer .container{
+    padding: 20px;
+    border-top: 1px solid #999;
+    font-size: 14px;
+}
+
+footer p
+{
+    color: #AAA;
+    font-weight: bold;
+}
+
+#siteNameError
+{
+
+    background-color: #ffb2b2;
+    color: #6d0000;
+    border: 0px solid #6d0000;
+    border-radius :5px;
+}
+#siteUrlError
+{
+
+    background-color: #ffb2b2;
+    color: #6d0000;
+    border: 0px solid #6d0000;
+    border-radius :5px;
+}
+
+
